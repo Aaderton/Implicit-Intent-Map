@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Implicit-Intent-Map</string>
+    <string name="location_text">Give a location (lat,long):</string>
+</resources>
